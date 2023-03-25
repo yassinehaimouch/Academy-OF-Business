@@ -1,0 +1,27 @@
+*{
+  color: #fff;
+}
+
+.main-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 150px 0 150px;
+  background-color: #11393C;
+}
+
+.main-nav{
+  display: flex;
+  justify-content: center;
+}
+
+.main-nav__items{
+  list-style: none;
+  display: flex;
+  padding: 0;
+  cursor: pointer;
+}
+
+.item{
+  margin-left: 43px;
+}

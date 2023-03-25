@@ -1,0 +1,47 @@
+.items {
+  background-color: #11393c;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 150px;
+}
+
+.items div ul li{
+  list-style: none;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.items div ul li:nth-child(2){
+  margin: 1.5rem 0;
+}
+
+
+.items div ul li a{
+  text-decoration: none;
+}
+
+.item-1 h2 {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+}
+
+.title {
+  font-size: 1rem;
+  margin-top: 2.5rem;
+}
+
+.email {
+  display: flex;
+  margin-top: 2.5rem;
+}
+
+.email h2 {
+  margin-left: 0.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+}

@@ -1,0 +1,37 @@
+.container img{
+  margin-bottom: 0.5rem;
+}
+
+.title{
+  font-size: 1rem;
+  font-weight: 600;
+  color: #3A4F4F;
+  margin-bottom: 0.5rem;
+}
+
+.job{
+  font-size: 1rem;
+  font-weight: 400;
+  color: #3A4F4F;
+  margin-bottom: 0.5rem;
+}
+
+.playcourses{
+  display: flex;
+  align-items: center;
+}
+
+.playcourses h2{
+  font-size: 1rem;
+  font-weight: 500;
+  color: #3A4F4F;
+  margin-left: 5px;
+}
+
+.cercle-icon{
+  height: 30px;
+  width: 30px;
+  background-color: #3A4F4F;
+  border-radius: 50%;
+}
+
